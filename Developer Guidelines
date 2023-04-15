@@ -1,13 +1,40 @@
 # Developrs GuideLines:
 > Having a set of guidelines,can improve your abilities as a developer and also help you to make decisions ahead of time rather than on the spot.
-
-### this GuideLines cover: ###
--communication advices 
--coding guidlines 
--Documentation instrcutions 
-
+> Here we list a guidlines that could help you in your process of deveploment ,this covers:
+- communocation policies
+- coding instrcutions
+- Documnetations 
 
 
+.Communication policies:
+ an effective communication policy reduces disputes and miscommunications by engoraging meaningful communication among developers.
+ Here some of the most improtant policies:
+ 1. the communication should be truthful and ethical.
+ 2. Developrs must Be open to feedbacks from other developers or users.
+ 
+
+.coding instrcutions:
+# code styling:
+
+1. code must be orginzed and clear to devepler 
+2. Add comments to explain the code .
+3. each function of the code is specified to perform on task only, easy to read by the developer.
+4. methods and varibales name are meaningful.
+5. varaibles data type  are clear to developer
 
 
+# code documentation:
 
+1. provide documnets describe the flow of system .
+2. live notifications for any updates in document.
+3. mark functions that are uncompelete or under processing.
+
+
+# bug and issue tracking :
+
+1. use team proejct mnagement tools : 
+ 	Such as :https://asana.com/ . to mantian the proejct tasks of handling bugs and issues , the website could assign 
+tasks to specific users and users could montior the prograss of a certain task if it's under processing or compelete or created .
+
+2.provide a details information about the bug or issue. providing the user with specific fromating t follow when reporting the bug or issue:
+ 
