@@ -6,7 +6,9 @@ for features:
 - the system will allow different types of online payment ( credit card, debit card, paypal.. etc).
 - being able to search for different books using ( author name, books name, ISBN ).
 - The admin and stuff of the library will be able to add new books to the library any time they want.
--
+- users will be able to see the statues of their orders and their account history from recent to past transactions that they did.
+- the app will notify the user and set a reminder for them to when they will have to return the book so they do not have to pay a fee.
+- the system will be easy to use for all type of users who come from different backgrounds and have different ages.
 
 
 for the requirments: 
