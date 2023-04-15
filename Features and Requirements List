@@ -2,9 +2,10 @@ There are different features and requirments that you need to know about our pro
 
 for features:
 
--
--
--
+- buying subscribtion for the length that the customer want to be able to read/borrow the books they want from the library system.
+- the system will allow different types of online payment ( credit card, debit card, paypal.. etc).
+- being able to search for different books using ( author name, books name, ISBN ).
+- The admin and stuff of the library will be able to add new books to the library any time they want.
 -
 
 
