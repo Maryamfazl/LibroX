@@ -1,41 +1,35 @@
 # FQA maintaining
-**1.	Why do you need my email address? **<br>
-Email confirmation of borrowing or buying is sent automatically. to transmit the borrowing or buying confirmation cannot be approved. 
+**1. What is the purpose of requiring my email address? **<br>
+Automatic email confirmation of borrowing or purchasing is provided. It is not possible to authorise the transmission of the borrowing or purchasing confirmation. 
 
-**2.	Is it open every day of the week? **<br>
-Yes, it’s open 24 hours. 
+**2. Is it open seven days a week? **<br>
+Yes, it is visible 24 hours a day. 
 
-**3.	How can I view the details of my borrowed book? **<br>
-The Brrow details button then it will display for you the whole information that you might need .
+**3. How can I add a new function to the LibroX system?**<br>
+The system codes can be copied from an alternate (main) repository.
 
-**4.	How do I include a new function into the library system?**<br>
-The system codes can be cloned from the remote (main) repository.
+**4. How do I borrow a book from LibroX? **<br>
+To borrow a book, first search for it, then click on it to view its details, and last click on the "Borrow" option. To complete the borrowing procedure, you must have a subscription.
 
-**5.	How can I borrow a book from the library online management application system?**<br>
-To borrow a book, you can search for the book you want to borrow, click on it to view its details, and then click on the "Borrow" button. You will need to have a valid library card to complete the borrowing process.
+**5.	How many books may I borrow at once?**<br>
+The quantity of books you can borrow at one time is determined by your membership status and the restrictions of your library. 
 
-**6.	How many books can I borrow at a time?**<br>
-The number of books you can borrow at a time depends on your membership type and the policies of your library. Please refer to your library's rules and regulations for more information.
+**6. For how long may I borrow a book?**<br>
+The borrowing duration for a book is determined by your membership type and the LibroX policy. Books may usually be rented for a few weeks or a month, and you can renew your borrowing time if necessary.
 
-**7.	How long can I borrow a book for?**<br>
-The borrowing period for a book depends on your membership type and the policies of your library. Generally, books can be borrowed for a few weeks or a month, and you can renew your borrowing period if needed.
+**7. How can I renew a borrowed book? **<br>
+To renew a book, log into your account, locate the book you wish to renew, and click the "Renew" button. You can renew the book as long as there are no holds on it and you haven't reached the maximum number of renewals.
 
-**8.	How can I renew a book that I've borrowed?**<br>
-To renew a book, you can go to your account, find the book you want to renew, and click on the "Renew" button. You can renew the book as long as there are no holds on it and you have not exceeded the maximum number of renewals allowed.
+**8. How do I pay for books purchased using the LibroX application system?**<br>
+You can use a valid credit or debit card to pay for books purchased using the LibroX application system.
 
-**9.	How can I return a book that I've borrowed?**<br>
-To return a book, you can go to your account, find the book you want to return, and click on the "Return" button. You can also return the book in person at the library.
+**9. Can I follow the status of my borrowing and purchasing operations on the application system?**<br>
+Yes, you can follow the status of your borrowing and purchasing actions by logging into your account and examining your borrowing and purchasing history.
 
-**10.	How can I pay for the books that I buy through the library online management application system?**<br>
-You can pay for the books you buy through the library online management application system using a valid credit or debit card.
-
-**11.	Can I track the status of my borrowing and buying activities on the library online management application system?**<br>
-Yes, you can track the status of your borrowing and buying activities by going to your account and viewing your borrowing and buying history.
-
-**12.	How can I reserve a book that is currently checked out by someone else?**<br>
+**10.	How can I reserve a book that is currently checked out by someone else?**<br>
 To reserve a book, you can search for the book you want to reserve, view its details, and click on the "Reserve" button. You will be notified when the book becomes available.
 
-**13.	How can I contact the library for help or support related to the online management application system?**<br>
+**11.	How can I contact the library for help or support related to the online management application system?**<br>
 You can contact the library by phone or email for help or support related to the online management application system. The contact information can be found on the library's website or in the application system itself.
 
 
