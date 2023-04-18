@@ -1,4 +1,4 @@
-# Library-Management-System
+# Library-Management-System (LibroX)
 students:
 Maryam Fazlurrehman - 20183649
 Romayssa Sami - 20197197
