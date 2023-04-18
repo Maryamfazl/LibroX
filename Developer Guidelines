@@ -4,13 +4,13 @@
 
 > Here we list a guidlines that could help you in your process of deveploment ,this covers:
 
-. communocation policies
+. communocation policy
 . coding instrcutions
 . Documnetations
 . Bugs and issues tracking
 
 
-## Communication policies:
+## Communication policy:
 
  an effective communication policy reduces disputes and miscommunications by engoraging meaningful communication among developers.
  Here some of the most improtant policies:
@@ -18,12 +18,14 @@
  2. Developers must Be open to feedbacks from other developers or users.
  3. Developers  communicate through the Email and GoogleGroups ( for instant replays you can communicate through the MSTeams ).
  
- *If you are a user and have you a quary about the project feel free to conntact the developers through the Email or googleGroups provided in :
+ *If you are a user and have you a quary about the project feel free to conntact the developers through the Email or googleGroups:
+  . Google groups: Libroxlibrary@googlegroups.com  
+  .  Email : Libroxlibrary@gmail.com 
   
 
 ## coding instrcutions:
 
-. code styling Guidlines:
+# code styling Guidlines:
 
 1.Naming local variables and constant , Funcation:
  naming funcation and varibles clearly will help the others to understand the use of these  attributes.
